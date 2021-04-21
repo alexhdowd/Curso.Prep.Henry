@@ -1,0 +1,25 @@
+
+Variables 
+Las variables son simbolos que cuando se declaran con un nombre determinado se les puede asignar un valor sin especificar el tipo de dato previamente
+por ejemplo : var numero = 12;
+
+Strings
+Los Strings son un tipo de dato que se se asigna a una variable, integrado por bloques o lineas de texto que se lo define entre comillas.
+var cadena = "Esto es un ejemplo";
+
+Funciones
+Una funcion es un conjunto de intrucciones que realizan una tarea o un calculo detrminado y se declara asignandole un nombre que lo identifica para su posterior ejecucion.
+El nombre de la funcion puede poseer argumentos que podemos usar como variables dentro de la misma.Ademas dentro de la funcion podemos declarar uno o mas retornos (retrun)
+para extraer los datos fuera de la misma(funcion).
+function Saludar(nombre) {retrun ('hola ' + nombre);}
+
+Declaraciones IF
+es una estructura de control sirve para comparar condiciones logicas de verdadero o falso de variables o argumentos.
+if (edad<18) {return 'Es menor de edad';}
+
+
+Variable booleana
+Se define asi al tipo de dato que se le puede asignar valores de estado verdadero o falso (true / false) 
+Este tipo de variables / estado suelen utilizarce en estructuras de control condicional como if(){} else{}
+var respuesta1 = true;
+var respuesta2 = false;
