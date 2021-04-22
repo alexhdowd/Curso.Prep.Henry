@@ -1,0 +1,28 @@
+Homework Javascript II
+Crear y explicar - FOR
+		 - &&, ||, !
+
+Bucle FOR
+Es una declaracion para realizar una tarea repetitiva, Un ciclo o bucle FOR se repite hasta que la condicion especificada se evalue como falsa (FALSE)
+ FOR (let i =0; i<100; i++){console.log(i);}
+
+Operador logico && "AND" "Y"
+Permite evaluar la condicion logica simultanea de dos o mas variables booleanas basados en la siguiente tabla de verdad
+F && F = F
+F && T = F
+T && F = F
+T && T = T
+
+Operador logico || "OR" "O"
+Permite evaluar la condicion logica de dos o mas variables bolleanas basados en la siguiente tabla
+F || F = F
+F || T = T
+T || F = T
+T || T = T
+
+Operador Logico ! "NOT" "NO"
+Permite cambiar la condicion de verdad de las variables booleanas a la cual preceden
+let A = true;
+console.log(!A);
+// false
+
