@@ -1,0 +1,6 @@
+Arrays
+Es un tipo de dato estructurado que permitealmacenar un conjunto de datos de diferentes tipos
+(numeros, strings, arrays, funciones..etc)
+
+ejemplo array
+const array = [1,2,3,'hola', function numero(){console.log (3);}];
