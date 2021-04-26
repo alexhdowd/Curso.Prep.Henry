@@ -1,0 +1,13 @@
+Objetos
+
+
+Propiedades
+
+
+Metodos
+
+
+Bucle For..in
+
+
+Notacion de Puntos vs Notacion de corchetes
